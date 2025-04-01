@@ -1,0 +1,22 @@
+{
+  "name": "tictactoe-cli",
+  "version": "1.0.0",
+  "description": "シンプルなCUI版〇×ゲーム（三目並べ）",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "game",
+    "cli",
+    "tictactoe"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "chalk": "^4.1.2",
+    "clear": "^0.1.0",
+    "figlet": "^1.5.2"
+  }
+}
